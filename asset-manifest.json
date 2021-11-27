@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/azndibs/static/css/main.5afbddba.chunk.css",
-    "main.js": "/azndibs/static/js/main.d18331a7.chunk.js",
-    "main.js.map": "/azndibs/static/js/main.d18331a7.chunk.js.map",
-    "runtime-main.js": "/azndibs/static/js/runtime-main.1290c143.js",
-    "runtime-main.js.map": "/azndibs/static/js/runtime-main.1290c143.js.map",
-    "static/js/2.329004ca.chunk.js": "/azndibs/static/js/2.329004ca.chunk.js",
-    "static/js/2.329004ca.chunk.js.map": "/azndibs/static/js/2.329004ca.chunk.js.map",
-    "index.html": "/azndibs/index.html",
-    "static/css/main.5afbddba.chunk.css.map": "/azndibs/static/css/main.5afbddba.chunk.css.map",
-    "static/js/2.329004ca.chunk.js.LICENSE.txt": "/azndibs/static/js/2.329004ca.chunk.js.LICENSE.txt",
-    "static/media/dragon-scales.1a84aa71.svg": "/azndibs/static/media/dragon-scales.1a84aa71.svg",
-    "static/media/game-4.b1a1da09.webp": "/azndibs/static/media/game-4.b1a1da09.webp",
-    "static/media/shirt1.8b5565d8.png": "/azndibs/static/media/shirt1.8b5565d8.png",
-    "static/media/short.687fd917.mp4": "/azndibs/static/media/short.687fd917.mp4",
-    "static/media/sunset.051fb24d.svg": "/azndibs/static/media/sunset.051fb24d.svg"
+    "main.css": "/static/css/main.5afbddba.chunk.css",
+    "main.js": "/static/js/main.d18331a7.chunk.js",
+    "main.js.map": "/static/js/main.d18331a7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1f23e353.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1f23e353.js.map",
+    "static/js/2.d7f300a3.chunk.js": "/static/js/2.d7f300a3.chunk.js",
+    "static/js/2.d7f300a3.chunk.js.map": "/static/js/2.d7f300a3.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.5afbddba.chunk.css.map": "/static/css/main.5afbddba.chunk.css.map",
+    "static/js/2.d7f300a3.chunk.js.LICENSE.txt": "/static/js/2.d7f300a3.chunk.js.LICENSE.txt",
+    "static/media/dragon-scales.1a84aa71.svg": "/static/media/dragon-scales.1a84aa71.svg",
+    "static/media/game-4.b1a1da09.webp": "/static/media/game-4.b1a1da09.webp",
+    "static/media/shirt1.8b5565d8.png": "/static/media/shirt1.8b5565d8.png",
+    "static/media/short.687fd917.mp4": "/static/media/short.687fd917.mp4",
+    "static/media/sunset.051fb24d.svg": "/static/media/sunset.051fb24d.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1290c143.js",
-    "static/js/2.329004ca.chunk.js",
+    "static/js/runtime-main.1f23e353.js",
+    "static/js/2.d7f300a3.chunk.js",
     "static/css/main.5afbddba.chunk.css",
     "static/js/main.d18331a7.chunk.js"
   ]
